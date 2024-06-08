@@ -6,7 +6,6 @@ const App=()=> {
   return (
     <main className="bg-black">
      <Navbar/>
-     <h2 className="sm:text-yellow-500">Hi</h2>
      <Hero/> 
      <Highlights/>
 
